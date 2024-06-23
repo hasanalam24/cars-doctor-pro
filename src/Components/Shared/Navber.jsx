@@ -30,7 +30,7 @@ const Navber = () => {
     ]
 
     return (
-        <div className="bg-base-100 mb-10 ">
+        <div className="bg-slate-100 ">
             <div className="navbar container mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
